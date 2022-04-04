@@ -4,4 +4,9 @@ This is a small app for saving, updating, deleting and retrieving books and thei
 Stack:
 - java 17
 - Spring Boot 
-- H2 Database
+- Docker
+- Keycloak
+- Postgres
+
+To start the app just run the command:
+```docker-compose -f docker-compose.yml up```
